@@ -6,7 +6,12 @@ Features
 CSV file upload: Users can upload CSV files with a simple web form.
 CSV parsing: The application parses the CSV data and displays it in a table.
 Searching: Users can search data in the table.
+
+
+
 Folder Structure
+
+
 CSV_Upload/
 |── |assets/
 │   |      ├── css/
