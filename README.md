@@ -11,7 +11,6 @@ Searching: Users can search data in the table.
 
 Folder Structure
 
-
 CSV_Upload/
 |── |assets/
 │   |      ├── css/
@@ -32,3 +31,5 @@ CSV_Upload/
 |   |
 ├── package.json
 ├── README.md
+
+
